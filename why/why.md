@@ -37,3 +37,11 @@
 
 !SLIDE
 # ~13.000 lines of C++, ~5400 lines of JS
+
+!SLIDE
+
+# "To provide a purely evented, non-blocking infrastructure to script highly concurrent programs."
+
+!SLIDE
+
+# Why?

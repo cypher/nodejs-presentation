@@ -51,25 +51,17 @@ Source: [A little holiday present: 10,000 reqs/sec with Nginx!](http://blog.webf
 
 !SLIDE
 
-# Apache uses Threads
-
-!SLIDE
-
-# Nginx uses an Event Loop
-
-!SLIDE
-
 # Threads
 
 !SLIDE
 
-# Execution stacks take up memory
+# Execution stacks
 
 !SLIDE
-# Context switching is expensive
+# Context switching
 
 !SLIDE
-# Cannot use one thread/connection for massive concurrency
+# <s>massive concurrency</s>
 
 !SLIDE
 
@@ -117,7 +109,8 @@ Source: [A little holiday present: 10,000 reqs/sec with Nginx!](http://blog.webf
 
 !SLIDE
 
-### Single-threaded event loop requires non-blocking IO
+# Single-threaded event loop
+# requires non-blocking IO
 
 !SLIDE
 
@@ -130,3 +123,7 @@ Source: [A little holiday present: 10,000 reqs/sec with Nginx!](http://blog.webf
 !SLIDE
 
 ## Still require expert knowledge
+
+!SLIDE
+
+## Still require library support

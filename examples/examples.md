@@ -1,8 +1,9 @@
 !SLIDE
 
-# (using Node.js 0.1.91)
+# Examples
+## (using Node.js 0.1.91)
 
-!SLIDE code smaller
+!SLIDE code small
 
 	@@@ javascript
 	// Delayed hello world
@@ -16,7 +17,7 @@
 	sys.puts("hello");
 
 	process.addListener("SIGINT", function () {
-	  puts("good bye");
+	  sys.puts("good bye");
 	  process.exit(0)
 	});
 

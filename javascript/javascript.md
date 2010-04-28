@@ -2,15 +2,32 @@
 
 # Why Javascript?
 
-!SLIDE bullets
-
-# Ready for event-driven programming
-
 !SLIDE
 
 # Event-driven culture
 
 !SLIDE
 
-# Node.js
-# "To provide a purely evented, non-blocking infrastructure to script highly concurrent programs."
+	@@@ javascript
+	new Ajax.Request('/some_url',
+	  {
+	    method:'get',
+	    onSuccess: function(transport) {
+	      // do stuff
+	    },
+	    onFailure: function() {
+		  // do stuff
+		}
+	  });
+
+!SLIDE
+
+# Anonymous functions
+
+!SLIDE
+
+# Closures
+
+!SLIDE
+
+# IO through callbacks

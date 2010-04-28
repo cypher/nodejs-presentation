@@ -1,5 +1,5 @@
 !SLIDE
-# Javascript?
+# JavaScript?
 
 !SLIDE
 # Browser only
@@ -28,8 +28,12 @@
 !SLIDE
 # (For programmers)
 
-!SLIDE bullets
+!SLIDE
 
-* Built on Google's V8
-* CommonJS module system
-* ~13.000 lines of C++, ~5400 lines of JS
+# Built on Google's V8
+
+!SLIDE
+# CommonJS module system
+
+!SLIDE
+# ~13.000 lines of C++, ~5400 lines of JS

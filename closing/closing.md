@@ -36,6 +36,7 @@
 * [Fab.js](http://www.fabjs.org/) (awesome node.js web framework)
 * [JS Conf Europe Node.js talk](http://jsconf.eu/2009/video_nodejs_by_ryan_dahl.html)
 * [Showoff](http://github.com/schacon/showoff) (presentation app)
+* [github.com/cypher/nodejs-presentation](http://github.com/cypher/nodejs-presentation) (This presentation)
 
 !SLIDE bullets
 

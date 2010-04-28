@@ -1,5 +1,5 @@
 !SLIDE
-# Event Driven Programming?
+# Event Driven Programming
 
 !SLIDE code
 
@@ -37,11 +37,15 @@ Source: [What your computer does while you wait](http://duartes.org/gustavo/blog
 
 ![nginx apache reqs](nginx-apache-reqs-sec.png)
 
+# concurrency × requests/s
+
 Source: [A little holiday present: 10,000 reqs/sec with Nginx!](http://blog.webfaction.com/a-little-holiday-present)
 
 !SLIDE center
 
 ![nginx apache memory](nginx-apache-memory.png)
+
+# concurrency × memory
 
 Source: [A little holiday present: 10,000 reqs/sec with Nginx!](http://blog.webfaction.com/a-little-holiday-present)
 

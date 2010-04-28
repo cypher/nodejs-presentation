@@ -1,11 +1,11 @@
 !SLIDE
+# Node.js
+
+!SLIDE
 # JavaScript?
 
 !SLIDE
 # Browser only
-
-!SLIDE
-# Single threaded
 
 !SLIDE
 # AJAX and UI SFX
@@ -18,9 +18,6 @@
 
 !SLIDE
 # Server-side
-
-!SLIDE
-# Event Driven
 
 !SLIDE
 # "real" libraries

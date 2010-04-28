@@ -69,7 +69,12 @@ Source: [A little holiday present: 10,000 reqs/sec with Nginx!](http://blog.webf
 
 !SLIDE
 
-# Threaded concurrency is a leaky abstaction
+# Green threads
+# Coroutines
+
+!SLIDE
+
+# Threaded concurrency is a leaky abstraction
 
 !SLIDE code small
 
